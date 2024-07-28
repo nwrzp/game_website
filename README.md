@@ -1,3 +1,3 @@
 # game_website
-using the tutorial
+using the tutorial,
 without adaptive
